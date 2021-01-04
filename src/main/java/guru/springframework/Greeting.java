@@ -1,7 +1,7 @@
 package guru.springframework;
 
 /**
- * Created by jt on 10/10/18.
+ * Created by Sean on 04-01-2021
  */
 public class Greeting {
 
